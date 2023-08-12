@@ -1,0 +1,52 @@
+.outer_div{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  margin-bottom: 15px;
+}
+
+.outer_div .rest_img{
+ width: 40%;
+ /* background-image: url(../Assets/Rectangle\ 264.jpg);
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ border-radius: 14px; */
+}
+
+.outer_div .rest_img img{
+  width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.outer_div .rest_detail{
+  width: 60%;
+}
+.outer_div .rest_detail .rest_name{
+  margin-left:10%;
+}
+
+.rest_name .name{
+  color: #1E232C;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 21px;
+  /* margin-bottom: 0px; */
+  margin: 0 auto;
+
+}
+
+.recipies{
+  margin: 0 auto;
+  color: #505259;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.address{
+  margin: 0 auto;
+  color: #505259;
+    font-weight: 500;
+    font-size: 16px;
+}

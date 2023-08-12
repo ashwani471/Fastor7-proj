@@ -1,0 +1,66 @@
+
+.image{
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.outer-div{
+    width: 90%;
+    padding: 17px;
+}
+
+.outer-div .detail-rating{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.description{
+    color: #515151;
+    font-weight: 500;
+    font-size: 17px;
+    margin-bottom: 30px;
+
+}
+
+.rest_name{
+    color: #1E232C;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 21px;
+    margin-bottom: -17px;
+
+}
+
+.trending{
+    letter-spacing: 1px;
+}
+
+.trending img{
+    margin-right: 5px;
+}
+.trending span{
+    color: #D39171;
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background: white;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+}
+
+.rest_loc{
+    color: #505259;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+
+.ratings img{
+    margin-right: 4px;
+
+}
